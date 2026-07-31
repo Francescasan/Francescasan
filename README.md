@@ -1,5 +1,4 @@
 <div align="center">
-
   <h1>Hi, I'm Francesca 👋</h1>
   <p><strong>Backend Developer · Computer Science MSc Student · Curious by design</strong></p>
 </div>
@@ -20,13 +19,6 @@ Since 2023, I have been working on enterprise applications in the financial sect
 | **Tools & Workflow** | Git · Maven · Agile · Scrum |
 | **Currently Exploring** | Solidity · Hardhat · Web3 · Docker · Kubernetes |
 
-### Right now
-
-- 🎓 Pursuing an **MSc in Computer Science — Software Techniques** at the University of Bologna
-- ⛓️ Exploring smart contract development with **Solidity and Hardhat**
-- 🧠 Learning more about **responsible AI and risk management**
-- ☕ Growing as a backend developer, one service at a time
-
 ### Education
 
 - **MSc in Computer Science — Software Techniques** *(in progress)*  
@@ -34,17 +26,27 @@ Since 2023, I have been working on enterprise applications in the financial sect
 - **BSc in Computer Science**  
   University of L'Aquila
 
-### Certifications
+### Certifications & Training
 
-<div align="center">
-  <img
-    src="./responsible-ai-and-risk-management.png"
-    width="160"
-    alt="IBM SkillsBuild Responsible AI and Risk Management badge"
-  />
+- **Confluent:** Fundamentals Accreditation
+- **Backend Development:** Spring Boot · MyBatis
+- **Databases:** MongoDB · Oracle PL/SQL
+- **Programming:** Python 3
+- <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="190">
+        <img
+          src="./responsible-ai-and-risk-management.png"
+          width="150"
+          alt="IBM SkillsBuild Responsible AI and Risk Management badge"
+        />
+      </td>
+      <td>
+        <strong>IBM SkillsBuild</strong><br />
+        Responsible AI and Risk Management
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <strong>IBM SkillsBuild — Responsible AI and Risk Management</strong><br />
-  Confluent Fundamentals Accreditation · Spring Boot · MyBatis · MongoDB · Oracle PL/SQL · Python
-</div>
