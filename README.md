@@ -17,7 +17,7 @@ Since 2023, I have been working on enterprise applications in the financial sect
 
 | Area | Technologies |
 |:---|:---|
-| **⚙️ Backend** | Java · Spring Boot · REST APIs · MyBatis · Groovy |
+| **⚙️ Backend** | Java · Spring Boot · REST APIs |
 | **🗄️ Databases** | Oracle · PL/SQL · SQL · MySQL |
 | **🧪 Testing** | JUnit · Spring Test · Postman |
 | **🛠️ Tools & Workflow** | Git · Maven · Agile · Scrum |
