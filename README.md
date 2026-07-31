@@ -1,8 +1,4 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Oracle;Building+reliable+APIs+and+microservices;Learning+Solidity+and+Web3&font=Fira+Code&size=23&pause=1100&center=true&duration=3000&width=650"
-    alt="Backend Developer — Java, Spring Boot and Oracle"
-  />
 
   <h1>Hi, I'm Francesca 👋</h1>
   <p><strong>Backend Developer · Computer Science MSc Student · Curious by design</strong></p>
@@ -16,13 +12,13 @@ I turn requirements into **clean APIs, reliable services, and well-structured da
 
 Since 2023, I have been working on enterprise applications in the financial sector, mainly with **Java, Spring Boot, Oracle, PL/SQL, and MyBatis**. I care about maintainable code, meaningful tests, and solutions that work beyond the happy path.
 
-```text
-backend      Java · Spring Boot · REST APIs · MyBatis · Groovy
-data         Oracle · PL/SQL · SQL · MySQL
-quality      JUnit · Spring Test · Postman
-workflow     Git · Maven · Agile · Scrum
-exploring    Solidity · Hardhat · Web3 · Docker · Kubernetes
-```
+| Area | Technologies |
+|:---|:---|
+| **Backend** | Java · Spring Boot · REST APIs · MyBatis · Groovy |
+| **Databases** | Oracle · PL/SQL · SQL · MySQL |
+| **Testing** | JUnit · Spring Test · Postman |
+| **Tools & Workflow** | Git · Maven · Agile · Scrum |
+| **Currently Exploring** | Solidity · Hardhat · Web3 · Docker · Kubernetes |
 
 ### Right now
 
