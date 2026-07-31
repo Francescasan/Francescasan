@@ -20,8 +20,8 @@ Since 2023, I have been working on enterprise applications in the financial sect
 | **⚙️ Backend** | Java · Spring Boot · REST APIs |
 | **🗄️ Databases** | Oracle · PL/SQL · SQL · MySQL |
 | **🧪 Testing** | JUnit · Spring Test · Postman |
-| **🛠️ Tools & Workflow** | Git · Maven · Agile · Scrum |
-| **🌱 Currently Exploring** | Solidity · Hardhat · Web3 · Docker · Kubernetes |
+| **🛠️ Tools & Workflow** | Git  · Agile · Scrum |
+| **🌱 Currently Exploring** | Solidity · Hardhat · Web3  |
 
 ### 🎓 Education
 
