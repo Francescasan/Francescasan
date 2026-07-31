@@ -25,14 +25,6 @@ My main responsibilities include:
 - optimizing and maintaining Oracle views;
 - collaborating within Agile/Scrum teams.
 
-## ⛓️ Blockchain and Solidity
-
-I am expanding my knowledge of smart contract development with **Solidity, Hardhat, and TypeScript**.
-
-### Featured Project
-
-- [Safe Escrow](https://github.com/Francescasan/safe-escrow) — a Solidity project focused on the secure management of an escrow contract.
-
 ## 🎓 Education
 
 - **Master's Degree in Computer Science — Software Techniques curriculum** *(in progress)* — Alma Mater Studiorum, University of Bologna
@@ -55,15 +47,3 @@ I am expanding my knowledge of smart contract development with **Solidity, Hardh
   width="160"
   alt="IBM Responsible AI and Risk Management badge"
 />
-
-## 🧠 Currently Learning
-
-- Responsible AI and risk management
-- Solidity and Web3 development
-- Java 21 and Spring Boot
-- Microservices, Docker, and Kubernetes
-
-## 🌍 Languages
-
-- Italian: Native
-- English: B1
