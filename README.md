@@ -17,11 +17,11 @@ Since 2023, I have been working on enterprise applications in the financial sect
 
 | Area | Technologies |
 |:---|:---|
-| **⚙️ Backend** | Java · Spring Boot · REST APIs |
+| **⚙️ Backend** | Java · Spring Boot · REST APIs · MyBatis · Groovy |
 | **🗄️ Databases** | Oracle · PL/SQL · SQL · MySQL |
 | **🧪 Testing** | JUnit · Spring Test · Postman |
-| **🛠️ Tools & Workflow** | Git  · Agile · Scrum |
-| **🌱 Currently Exploring** | Solidity · Hardhat · Web3  |
+| **🛠️ Tools & Workflow** | Git · Maven · Agile · Scrum |
+| **🌱 Currently Exploring** | Solidity · Hardhat · Web3 · Docker · Kubernetes |
 
 ### 🎓 Education
 
@@ -32,7 +32,8 @@ Since 2023, I have been working on enterprise applications in the financial sect
 
 ### 🏅 Certifications & Training
 
-- **IBM SkillsBuild:** Responsible AI and Risk Management
+- **IBM SkillsBuild:** [Getting Started with Generative AI](https://www.credly.com/badges/bb75c485-3300-4fa2-8549-b706d464e125/public_url)
+- **IBM SkillsBuild:** [Responsible AI and Risk Management](https://www.credly.com/badges/c5c5de2a-02e9-422d-a941-344cdc2e03b0/public_url)
 - **Confluent:** Fundamentals Accreditation
 - **Backend Development:** Spring Boot · MyBatis
 - **Databases:** MongoDB · Oracle PL/SQL
