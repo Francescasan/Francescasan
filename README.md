@@ -34,7 +34,7 @@ Since 2023, I have been working on enterprise applications in the financial sect
 
 - **Alchemy University:** EVM Chain Certification — Blockchain Cryptography · Ethereum Node API · Smart Contract Development · Solidity
 
-  <img src="./alchemy-university-evm-chain-certification.png" alt="Alchemy University EVM Chain Certification" width="450" />
+  <img src="./alchemy-university-evm-chain-certification.png" alt="Alchemy University EVM Chain Certification" width="115" />
 - **IBM SkillsBuild:** [Data Literacy](https://www.credly.com/badges/3d8dc650-3082-4712-984a-a226ce493cba/public_url)
 - **IBM SkillsBuild:** [Getting Started with Generative AI](https://www.credly.com/badges/bb75c485-3300-4fa2-8549-b706d464e125/public_url)
 - **IBM SkillsBuild:** [AI Fundamentals: Foundations for Understanding AI](https://www.credly.com/badges/cabf2f93-fffb-4b13-b8d4-288fd3e4242f/public_url)
