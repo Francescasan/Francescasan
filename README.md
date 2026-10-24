@@ -55,3 +55,10 @@ Since 2023, I have been working on enterprise applications in the financial sect
 | **Backend Development** | Spring Boot · MyBatis |
 | **Databases** | MongoDB · Oracle PL/SQL |
 | **Programming** | Python 3 |
+
+
+### 🤖 AI Foundations — OpenAI Academy
+
+- Completed: October 24, 2026
+- Assessment: 95%
+- [View credential](https://oaiacademy.credential.net/e6c36dd0-5955-41df-9591-aea6646baa45?key=eab6abb778802e8486d791631cc1a370fc384d90c3257aa5914c5838a980b1ab)
