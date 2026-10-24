@@ -1,10 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Francesca 👋</h1>
   <p><strong>Backend Developer · Computer Science MSc Student · Curious by design</strong></p>
-  <img
-    src="https://readme-typing-svg.demolab.com/?lines=Building+reliable+backend+systems;Creating+clean+and+maintainable+APIs;Exploring+Solidity+and+Web3&font=Fira+Code&size=16&pause=1200&center=true&duration=3000&width=520"
-    alt="Animated introduction"
-  />
 </div>
 
 ---
