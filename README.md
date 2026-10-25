@@ -44,6 +44,8 @@ Since 2023, I have been working on enterprise applications in the financial sect
 | Provider / Area | Certification or Skills |
 |:---|:---|
 | **OpenAI Academy** | [Extend Codex Workflows](https://oaiacademy.credential.net/92a9e166-30f8-49ec-b94d-a25709289b76?key=7f2c48f24ed8090ef54121c312164466ead3f4a284a3b6c0de5cd9a9406823eb) |
+| **OpenAI Academy** | [AI Foundations](https://oaiacademy.credential.net/e6c36dd0-5955-41df-9591-aea6646baa45?key=eab6abb778802e8486d791631cc1a370fc384d90c3257aa5914c5838a980b1ab) |
+| **OpenAI Academy** | [Agents and Workflows](https://oaiacademy.credential.net/9b40c698-2ce8-45ab-b20e-458aa906ecd3?key=649bb9be2e98bb114819869b0624ddfe2fdc3e9e22ab3bddfcc7bd7473e7db09) |
 | **IBM SkillsBuild** | [Data Literacy](https://www.credly.com/badges/3d8dc650-3082-4712-984a-a226ce493cba/public_url) |
 | **IBM SkillsBuild** | [Getting Started with Generative AI](https://www.credly.com/badges/bb75c485-3300-4fa2-8549-b706d464e125/public_url) |
 | **IBM SkillsBuild** | [AI Fundamentals: Foundations for Understanding AI](https://www.credly.com/badges/cabf2f93-fffb-4b13-b8d4-288fd3e4242f/public_url) |
