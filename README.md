@@ -43,6 +43,8 @@ Since 2023, I have been working on enterprise applications in the financial sect
 
 | Provider / Area | Certification or Skills |
 |:---|:---|
+| **OpenAI Academy** | [Extend Codex Workflows](https://academy.openai.com/home/courses/extend-codex-workflows-4e61p) |
+| **OpenAI Academy** | [Get Started with Codex](https://academy.openai.com/learning-path/get-started-with-codex-jkhsq/learn/get-started-with-codex-zy8qn/lessons/get-started-with-codex-s4oaj) |
 | **IBM SkillsBuild** | [Data Literacy](https://www.credly.com/badges/3d8dc650-3082-4712-984a-a226ce493cba/public_url) |
 | **IBM SkillsBuild** | [Getting Started with Generative AI](https://www.credly.com/badges/bb75c485-3300-4fa2-8549-b706d464e125/public_url) |
 | **IBM SkillsBuild** | [AI Fundamentals: Foundations for Understanding AI](https://www.credly.com/badges/cabf2f93-fffb-4b13-b8d4-288fd3e4242f/public_url) |
